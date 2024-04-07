@@ -1,2 +1,3 @@
 # recipe-api-app
-Recipe API Project using Django
+Recipe API Project using Django test
+
